@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center" ><b>Hi There!👋</b></div>
-
+<div height="30"></div>
 <div align="center" ><b>📚Tech Stack🧸</b>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 	</div>
-
+<div height="30"></div>
 
 
 
