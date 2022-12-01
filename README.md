@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=200&section=header&text=WelCome✨&desc=Go%20Eun's%20GitHub!&descAlign=36&fdontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=350&section=header&text=WelCome✨&desc=Go%20Eun's%20GitHub!&descAlign=36&fdontSize=80)
 
 <!--
 **goeun208/goeun208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
