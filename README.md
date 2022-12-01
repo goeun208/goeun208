@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center" ><b>Hi There!👋</b></div>
-<div height="30"></div>
-<div align="center" ><b>📚Tech Stack🧸</b>
+<div align="center" ><h3>Hi There!👋</h3></div>
+<div align="center" ><h3>📚Tech Stack🧸</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -34,7 +33,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-	<b>😎 Me 🐣</b>
+	<h3>😎 Me 🐣</h3>
 <div align="center">
 	<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
