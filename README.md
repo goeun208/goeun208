@@ -34,8 +34,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-	<b>😎 My 🐣</b>
-
+	<b>😎 Me 🐣</b>
+<div align="center">
 	<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+	</div>
 </div>
