@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center" ><h2>Hi There!👋</h2></div>
 
-<div align="center" ><h2>📚Tech Stack🧸</h2></div>
+<div align="center" ><h2>📚Tech Stack🧸</h2>
 <div align="center">
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -28,12 +28,14 @@ Here are some ideas to get you started:
 	<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white">
 	<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
+	</div>
 
 
 
 
-<div align="center"><h2>😎 My 🐣</h2></div>
 <div align="center">
+	<h2>😎 My 🐣</h2>
+
 	<img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white">
 	<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
